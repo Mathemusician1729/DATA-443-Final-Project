@@ -1,6 +1,6 @@
 # DATA-443-Final-Project
 
-<u>Collaborators</u>:
+<ins>Collaborators</ins>:
 - Matthew Tran
 - David Wu
 - Sarthak Monga
